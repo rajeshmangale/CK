@@ -1,0 +1,135 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f7f7f7"
+    android:paddingBottom="16dp"
+    tools:context="com.motegaonkarchemistryclasses.chemistryking.ContactUsActivity" >
+
+    <TextView
+        android:id="@+id/team_resoneuronance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/made_in_latur"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/border_bottom_green"
+        android:paddingBottom="1dp"
+        android:paddingTop="8dp"
+        android:text="App Created by Team Resoneuronance"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/made_in_latur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:padding="8dp"
+        android:text="Made in Latur, Maharashtra"
+        android:textColor="#42000000"
+        android:textSize="8sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/contact_us_title"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#c0392b"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="Contact Us"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/address_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/contact_us_title"
+                android:layout_marginTop="18dp"
+                android:fontFamily="sans-serif-bold"
+                android:paddingLeft="16dp"
+                android:text="Address:" />
+
+            <TextView
+                android:id="@+id/address_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/contact_us_title"
+                android:layout_margin="16dp"
+                android:layout_toRightOf="@id/address_label"
+                android:text="Udyog Bhavan, Signal Camp, Latur, Maharashtra" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/phone_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:fontFamily="sans-serif-bold"
+                android:text="Phone:" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/landline_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_bottom_purple"
+                    android:paddingBottom="1dp"
+                    android:text="02382-312571"
+                    android:textColor="#9C27B0" />
+
+                <TextView
+                    android:id="@+id/first_mobile_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_bottom_purple"
+                    android:paddingBottom="1dp"
+                    android:paddingTop="16dp"
+                    android:text="942-334-8282"
+                    android:textColor="#9C27B0" />
+
+                <TextView
+                    android:id="@+id/second_mobile_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_bottom_purple"
+                    android:paddingBottom="1dp"
+                    android:paddingTop="16dp"
+                    android:text="989-051-5166"
+                    android:textColor="#9C27B0" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

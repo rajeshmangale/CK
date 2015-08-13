@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Notification</item>
+        <item>Academic Record</item>
+        <item>Other Facilities</item>
+        <item>Contact Us</item>
+        <item>About Us</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+        <item>@drawable/notification</item>
+        <item>@drawable/timetable</item>
+        <item>@drawable/building</item>
+        <item>@drawable/phone</item>
+        <item>@drawable/notes</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="app_name">Chemistry King</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_web_view">Notifications</string>
+    <string name="primary_app_color">#FF9800</string>
+    <string name="some_words_for_contact">Renukai Chemistry Classes is proud to be 13 years in the field of
+providing quality education. Motegaonkar Sir himself is a Gold
+Medalist in M.Sc Chemistry, qualified in SET/NET-JRF, DRDO, GATE,
+BARC, and TIFR. With the 13 years of teaching experience,
+Motegaonkar Sir has helped thousands of students to score
+outstanding marks in Chemistry and achieve their dreams. With his positive energy and consistency, RCC is now
+        one of the fastest growing organisations in Maharashtra.</string>
+    <string name="title_activity_contact_us">Contact Us</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_custom_grid">Custom_grid</string>
+    <string name="title_activity_grid_view">GridView</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="title_activity_notify">Notify</string>
+    <string name="title_activity_notification_list_view">NotificationListView</string>
+    <string name="title_activity_student__login">Student_Login</string>
+    <string name="title_activity_student_login">StudentLogin</string>
+    <string name="title_activity_my_profile">MyProfile</string>
+    <string name="title_activity_syllabus">Syllabus</string>
+    <string name="title_activity_academic_record">AcademicRecord</string>
+    <string name="title_activity_academic_fragment">AcademicFragment</string>
+    <string name="about_renukai_classes_para1">In this competitive environment, every student aspires to get admission in a 
+	    reputed Medical or Engineering college. For that the student needs to stay ahead of the competition. 
+	    The student needs to study hard and prepare oneself in such a way that no one can challenge one’s academic abilities.</string>
+    <string name="about_renukai_classes_para2">There is an observation that many students who score well in 10th and 12th state board score not as well 
+in the CET exam. This does not mean that such students are not able to study but that they are unable to study ‘SMART’ for the CET. 
+Keeping this in mind, Prof. Motegaonkar has developed different smart methods to make learning Chemistry fun and help students score the maximum in their respective examinations.</string>
+    <string name="title_activity_about__renukai_classes">About_RenukaiClasses</string>
+    <string name="title_activity_other__facilities">Other_Facilities</string>
+    <string name="title_activity_home_page">HomePage</string>
+
+</resources>

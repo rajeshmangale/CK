@@ -1,0 +1,158 @@
+
+			Unit I: Some Basic Concepts of Chemistry (Periods 14)
+
+General Introduction: Importance and scope of chemistry.
+Historical approach to particulate nature of matter, laws of chemical combination, Dalton’s atomic
+
+theory: concept of elements, atoms and molecules.
+Atomic and molecular masses. Mole concept and molar mass; percentage composition and empirical
+and molecular formula; chemical reactions, stoichiometry and calculations based on stoichiometry.
+
+
+			Unit II: Structure of Atom (Periods 16)
+
+Discovery of electron, proton and neutron; atomic number, isotopes and isobars. Thompson’s model
+and its limitations, Rutherford’s model and its limitations, Bohr’s model and its limitations, concept of shells
+and subshells, dual nature of matter and light, de Broglie’s relationship, Heisenberg uncertainty principle,
+concept of orbitals, quantum numbers, shapes of s, p and d orbitals, rules for filling electrons in orbitals -
+Aufbau principle, Pauli exclusion principle and Hund’s rule, electronic configuration of atoms, stability of
+half filled and completely filled orbitals.
+
+
+
+			Unit III: Classification of Elements and Periodicity in Properties(Periods 8)
+
+Significance of classification, brief history of the development of periodic table, modern periodic law
+and the present form of periodic table, periodic trends in properties of elements –atomic radii, ionic radii,
+inert gas radii, ionization enthalpy, electron gain enthalpy, electronegativity, valence. Nomenclature of
+elements with atomic number greater than 100.
+
+
+
+			Unit IV: Chemical Bonding and Molecular Structure (Periods 16)
+
+Valence electrons, ionic bond, covalent bond, bond parameters, Lewis structure, polar character of
+covalent bond, covalent character of ionic bond, valence bond theory, resonance, geometry of covalent
+molecules, VSEPR theory, concept of hybridization involving s, p and d orbitals and shapes of some
+simple molecules, molecular orbital theory of homonuclear diatomic molecules (qualitative idea only).
+Hydrogen bond.
+
+
+
+			Unit V: States of Matter: Gases and Liquids (Periods 14)
+
+Three states of matter, intermolecular interactions, types of bonding, melting and boiling points,role of
+gas laws in elucidating the concept of the molecule, Boyle’s law, Charle’s law, Gay Lussac’s law, Avogadro’s
+law, ideal behaviour, empirical derivation of gas equation, Avogadro number, ideal gas equation. Kinetic
+energy and molecular speeds (elementary idea), deviation from ideal behaviour, liquefaction of gases,
+critical temperature.
+Liquid State – Vapour pressure, viscosity and surface tension (qualitative idea only, no mathematical
+derivations).
+
+
+
+
+			Unit VI: Thermodynamics (Periods 18)
+
+Concepts of system, types of systems, surroundings, work, heat, energy, extensive and intensive
+properties, state functions.
+First law of thermodynamics – internal energy and enthalpy, heat capacity and specific heat,
+measurement of ?U and ?H, Hess’s law of constant heat summation, enthalpy of : bond dissociation,
+combustion, formation, atomization, sublimation, phase transition, ionization, solution and dilution.
+Introduction of entropy as a state function, Second law of thermodynamics, Gibbs energy change for
+spontaneous and non-spontaneous process, criteria for equilibrium.
+Third law of thermodynamics –Brief introduction.
+
+
+
+			Unit VII: Equilibrium (Periods 20)
+
+Equilibrium in physical and chemical processes, dynamic nature of equilibrium, law of mass action,
+equilibrium constant, factors affecting equilibrium – Le Chatelier’s principle; ionic equilibrium – ionization
+of acids and bases, strong and weak electrolytes, degree of ionization, ionization of polybasic acids, acid
+strength, concept of pH., Hydrolysis of salts (elementary idea), , buffer solutions, Henderson equation,
+solubility product, common ion effect (with illustrative examples).
+
+
+
+			Unit VIII : Redox Reactions (Periods 6)
+
+Concept of oxidation and reduction, redox reactions, oxidation number, balancing redox reactions in
+terms of loss and gain of electron and change in oxidation numbers , applications of redox reactions.
+
+
+
+			Unit IX Hydrogen (Periods 8)
+
+Position of hydrogen in periodic table, occurrence, isotopes, preparation, properties and uses of
+hydrogen; hydrides – ionic, covalent and interstitial; physical and chemical properties of water, heavy
+water; hydrogen peroxide-preparation, reactions, use and structure; hydrogen as a fuel.
+
+
+
+			Unit X: s- Block Elements (Alkali and Alkaline earth metals) (Periods 14)
+
+Group 1 and Group 2 elements:
+General introduction, electronic configuration, occurrence, anomalous properties of the first element
+of each group, diagonal relationship, trends in the variation of properties (such as ionization enthalpy,
+atomic and ionic radii), trends in chemical reactivity with oxygen, water, hydrogen and halogens; uses.
+Preparation and Properties of Some Important Compounds:
+Sodium carbonate, sodium chloride, sodium hydroxide and sodium hydrogencarbonate, biological
+importance of sodium and potassium.
+CaO, CaCO3, and industrial use of lime and limestone, biological importance of Mg and Ca.
+
+
+
+			Unit XI: Some p-Block Elements (Periods 16)
+
+General Introduction to p-Block Elements
+Group 13 elements: General introduction, electronic configuration, occurrence, variation of properties,
+oxidation states, trends in chemical reactivity, anomalous properties of first element of the group; Boronphysical
+and chemical properties, some important compounds: borax, boric acids, boron hydrides. Aluminium:
+uses, reactions with acids and alkalies.
+5
+Group 14 elements: General introduction, electronic configuration, occurrence, variation of properties,
+oxidation states, trends in chemical reactivity, anomalous behaviour of first element. Carbon - catenation,
+allotropic forms, physical and chemical properties; uses of some important compounds: oxides.
+Important compounds of silicon and a few uses : silicon tetrachloride, silicones, silicates and zeolites,
+their uses.
+
+
+
+			Unit XII: Organic Chemistry – Some Basic Principles and Techniques(Periods 14)
+
+General introduction, methods of purification, qualitative and quantitative analysis, classification and
+IUPAC nomenclature of organic compounds.
+Electronic displacements in a covalent bond: inductive effect, electromeric effect, resonance and
+hyper conjugation.
+Homolytic and heterolytic fission of a covalent bond: free radicals, carbocations, carbanions;
+electrophiles and nucleophiles, types of organic reactions.
+
+
+
+			Unit XIII: Hydrocarbons (Periods 16)
+
+Classification of Hydrocarbons.
+Aliphatic Hydrocarbons:
+Alkanes – Nomenclature, isomerism, conformations (ethane only), physical properties, chemical
+reactions including free radical mechanism of halogenation, combustion and pyrolysis.
+Alkenes– Nomenclature, structure of double bond (ethene), geometrical isomerism, physical properties,
+methods of preparation; chemical reactions: addition of hydrogen, halogen, water, hydrogen halides
+(Markovnikov’s addition and peroxide effect), ozonolysis, oxidation, mechanism of electrophilic addition.
+Alkynes – Nomenclature, structure of triple bond (ethyne), physical properties, methods of preparation,
+chemical reactions: acidic character of alkynes, addition reaction of - hydrogen, halogens, hydrogen halides
+and water.
+Aromatic hydrocarbons – Introduction, IUPAC nomenclature; Benzene: resonance, aromaticity ;
+chemical properties: mechanism of electrophilic substitution – nitration sulphonation, halogenation, Friedel
+Craft’s alkylation and acylation; directive influence of functional group in mono-substituted benzene;
+carcinogenicity and toxicity.
+
+
+
+			Unit XIV: Environmental Chemistry (Periods 6)
+
+
+Environmental pollution – Air, water and soil pollution, chemical reactions in atmosphere, smogs,
+major atmospheric pollutants; acid rain, ozone and its reactions, effects of depletion of ozone layer,
+greenhouse effect and global warming – pollution due to industrial wastes; green chemistry as an alternative
+tool for reducing pollution, strategy for control of environmental pollution.

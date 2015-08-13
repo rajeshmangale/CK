@@ -1,0 +1,12 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="primary_app_color">#FF9800</color>
+    <color name="purple">#9C27B0</color>
+    <color name="blue_gray">#607D8B</color>
+    <color name="action_bar_text_color">#ffffff</color>
+    <!--Added for testing shadow-->
+    <!--<color name="text_shadow">#7F000000</color>-->
+    <!--<color name="text_shadow_white">#FFFFFF</color>-->
+</resources>

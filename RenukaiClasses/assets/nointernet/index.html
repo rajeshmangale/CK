@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Sorry, no internet connection</title>
+        
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            
+            html, body {
+                height: 100%;
+            }
+            
+            body {
+                background-color: #dcedc8;
+            }
+            
+            .center {
+                display: block;
+                margin: auto;
+            }
+            
+            .fit {
+                max-height: 100%;
+                max-width: 100%;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <img class="center fit" src="no%20internet%20connection.png" />
+        
+        <script src="jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" language="JavaScript">
+        function set_body_height()
+        {
+            var wh = $(window).height();
+            $('body').attr('style', 'height:' + wh + 'px;');
+        }
+        $(document).ready(function() {
+            set_body_height();
+            $(window).bind('resize', function() { set_body_height(); });
+        });
+        </script>
+    </body>
+</html>
